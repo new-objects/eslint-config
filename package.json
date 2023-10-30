@@ -4,7 +4,7 @@
   "description": "common eslint configuration for frontend projects",
   "main": "./eslint-config.cjs",
   "scripts": {
-    "publish-manual": "npm publish --access public"
+    "publish": "npm publish --access public"
   },
   "author": "mi-skam",
   "license": "ISC",
